@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDMEHEDIHASAN
-- 👀 I’m interested in Web Development and Mobile  Development
-- 🌱 I’m currently learning Mern and React Native
+- 👀 I’m interested in Machine Learning, Web Development and Mobile  Development
+- 🌱 I’m currently learning Mern and React Native also Machine Learning Project.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
