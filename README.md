@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MDMEHEDIHASAN
-- 👀 I’m a Software Engineer,Data Scientist &Machine Learning Researche.
+- 👀 I’m a Software Engineer,Data Scientist &Machine Learning Researcher.
 - 🌱 I’m currently working with Software,Machine Learning and Data Scientist  Project.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
