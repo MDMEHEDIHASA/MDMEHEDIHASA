@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=MDMEHEDIHASA&color=blue)
 <img src="your-avatar-image-url" alt="Avatar Image" width="150">
 
 🔭 I’m currently pursuing my MSE in Computer Science @ University Of New Haven
