@@ -21,14 +21,13 @@
 - Tableau
 - Causal Inference
 - Machine Translation
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
 👯 I’m looking to collaborate on Software Engineer / ML-based end-to-end research projects
 
 📫 Reach me at: [mmehedihasan514@gmail.com](mailto:mmehedihasan514@gmail.com)
 
 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-56a766179/)
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
 ---
 
