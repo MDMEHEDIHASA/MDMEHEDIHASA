@@ -2,7 +2,7 @@
 <p align="center">
   <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="400"/>
 </p>
-<img srce="https://github.com/MDMEHEDIHASA/uploadImage/blob/main/giphy%20(1).gif"/>
+<img src="https://github.com/MDMEHEDIHASA/uploadImage/blob/main/giphy%20(1).gif"/>
 
 
 
