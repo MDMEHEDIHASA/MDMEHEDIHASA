@@ -25,10 +25,10 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehedi-hasan-56a766179/)
-- [GitHub](https://github.com/MDMEHEDIHASA)
-- [Facebook](https://www.facebook.com/mehedihasan514/)
-- [Instagram](https://www.instagram.com/mmehedihasan514/)
-- [Protfolio](https://nervous-ptolemy-afcb96.netlify.app/)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MDMEHEDIHASA)
+- [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/mehedihasan514/)
+- [![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/mmehedihasan514/)
+- [![Protfolio](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://nervous-ptolemy-afcb96.netlify.app/)
 
 ---
 
