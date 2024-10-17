@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="400"/>
+  <img src="https://github.com/MDMEHEDIHASA/uploadImage/blob/main/giphy%20(1).gif" width="100%"/>
 </p>
-<img src="https://github.com/MDMEHEDIHASA/uploadImage/blob/main/giphy%20(1).gif"/>
+
 
 
 
