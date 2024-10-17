@@ -8,7 +8,6 @@
   <strong>A passionate Software Engineer and Ex-Machine Learning Engineer</strong>
 </p>
 
-**A passionate Software Engineer and Ex-Machine Learning Engineer**
 
 <img src="your-avatar-image-url" alt="Avatar Image" width="150">
 
