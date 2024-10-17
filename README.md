@@ -74,7 +74,8 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDMEHEDIHASA&show_icons=true" alt="GitHub Stats" height="200" style="margin-left: 40px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MDMEHEDIHASA&show_icons=true" alt="GitHub Stats" height="200"/>
+  <span style="display:inline-block; width: 20px;"></span> <!-- Spacer -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDMEHEDIHASA&layout=compact&theme=default" alt="Most Used Languages" height="200"/>
 </p>
 
