@@ -1,4 +1,8 @@
-<img <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> >
+## Banner
+
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+[via GIPHY](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
 
 # Hi 👋, I'm MD Mehedi Hasan
 
