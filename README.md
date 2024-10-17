@@ -8,6 +8,11 @@
 
 **A passionate Software Engineer and Ex-Machine Learning Engineer**
 
+<p align="center">
+  <h1>Hi 👋, I'm Mohammad Junayed Hasan</h1>
+  <strong>A passionate AI Researcher and Ex-Machine Learning Engineer</strong>
+</p>
+
 <img src="your-avatar-image-url" alt="Avatar Image" width="150">
 
 🔭 I’m currently pursuing my MSE in Computer Science @ University Of New Haven
