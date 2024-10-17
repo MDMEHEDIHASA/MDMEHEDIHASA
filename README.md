@@ -14,6 +14,7 @@
 🔭 I’m currently pursuing my MSE in Computer Science @ University Of New Haven
 
 🌱 I’m currently learning:
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 - Deep Learning
 - LangChain
 - Hadoop
@@ -21,7 +22,6 @@
 - Tableau
 - Causal Inference
 - Machine Translation
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
 👯 I’m looking to collaborate on Software Engineer / ML-based end-to-end research projects
 
