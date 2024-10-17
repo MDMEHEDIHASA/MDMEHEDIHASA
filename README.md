@@ -10,7 +10,6 @@
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=MDMEHEDIHASA&color=blue)
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
 🔭 I’m currently pursuing my MSE in Computer Science @ University Of New Haven
 
@@ -28,6 +27,8 @@
 📫 Reach me at: [mmehedihasan514@gmail.com](mailto:mmehedihasan514@gmail.com)
 
 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-56a766179/)
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
 ---
 
