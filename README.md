@@ -7,6 +7,7 @@
 <p align="center">
   <strong>A passionate Software Engineer and Ex-Machine Learning Engineer</strong>
 </p>
+
 ---
 
 <img src="your-avatar-image-url" alt="Avatar Image" width="150">
