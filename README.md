@@ -1,7 +1,7 @@
 
 <p align="center">
   #<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner GIF" width="100%"/>
-  <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="50vh"/>
+  <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="400"/>
 </p>
 
 
