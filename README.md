@@ -74,9 +74,9 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDMEHEDIHASA&show_icons=true" alt="GitHub Stats" height="100"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDMEHEDIHASA&layout=compact&theme=default" alt="Most Used Languages" height="100"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDMEHEDIHASA" alt="GitHub Streak Stats" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MDMEHEDIHASA&show_icons=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDMEHEDIHASA&layout=compact&theme=default" alt="Most Used Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDMEHEDIHASA" alt="GitHub Streak Stats" height="200"/>
 </p>
 
 ---
