@@ -1,10 +1,11 @@
-# Hi 👋, I'm Mohammad Junayed Hasan
+# Hi 👋, I'm MD Mehedi Hasan
 
-**A passionate AI Researcher and Ex-Machine Learning Engineer**
+**A passionate Software Engineer and Ex-Machine Learning Engineer**
 
-🔭 I’m currently pursuing my MSE in Computer Science @ Johns Hopkins University
+🔭 I’m currently pursuing my MSE in Computer Science @ University Of New Haven
 
 🌱 I’m currently learning:
+- Deep Learning
 - LangChain
 - Hadoop
 - Kafka
@@ -12,19 +13,19 @@
 - Causal Inference
 - Machine Translation
 
-👯 I’m looking to collaborate on Data Science / ML-based end-to-end research projects
+👯 I’m looking to collaborate on Software Engineer / ML-based end-to-end research projects
 
-📫 Reach me at: [mhasan21@jhu.edu](mailto:mhasan21@jhu.edu)
+📫 Reach me at: [mmehedihasan514@gmail.com](mailto:mmehedihasan514@gmail.com)
 
-📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/mjhasan21/)
+📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/mehedi-hasan-56a766179/)
 
 ---
 
 ## Connect with me:
-- [GitHub](https://github.com/junayed-hasan)
-- [Facebook](https://facebook.com/junayed.hasan.94)
-- [Instagram](https://instagram.com/junayed_hasan)
-- [Twitter](https://twitter.com/junayed_hasan)
+- [GitHub](https://github.com/MDMEHEDIHASA)
+- [Facebook](https://www.facebook.com/mehedihasan514/)
+- [Instagram](https://www.instagram.com/mmehedihasan514/)
+- [Protfolio](https://nervous-ptolemy-afcb96.netlify.app/)
 
 ---
 
@@ -49,6 +50,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -57,6 +59,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white).
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
