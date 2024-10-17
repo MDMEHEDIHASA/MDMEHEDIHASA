@@ -1,7 +1,6 @@
 
 <p align="center">
   <img src="https://github.com/MDMEHEDIHASA/uploadImage/blob/main/giphy%20(1).gif" width="100%"/>
-  <img src="https://jumpshare.com/s/0VG15e5gjhmV3cynXt8y" />
 </p>
 
 
