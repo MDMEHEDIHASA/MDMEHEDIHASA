@@ -10,7 +10,7 @@
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=MDMEHEDIHASA&color=blue)
-<img src="your-avatar-image-url" alt="Avatar Image" width="150">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 
 🔭 I’m currently pursuing my MSE in Computer Science @ University Of New Haven
 
