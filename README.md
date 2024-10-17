@@ -73,9 +73,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDMEHEDIHASA&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDMEHEDIHASA&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDMEHEDIHASA&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDMEHEDIHASA&show_icons=true)
 
 ---
