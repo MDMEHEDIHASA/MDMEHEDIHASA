@@ -5,13 +5,9 @@
 
 
 # Hi 👋, I'm MD Mehedi Hasan
+<h1 align="center">Hi 👋, I'm Mohammad Junayed Hasan</h1>
 
 **A passionate Software Engineer and Ex-Machine Learning Engineer**
-
-<p align="center">
-  <h1>Hi 👋, I'm Mohammad Junayed Hasan</h1>
-  <strong>A passionate AI Researcher and Ex-Machine Learning Engineer</strong>
-</p>
 
 <img src="your-avatar-image-url" alt="Avatar Image" width="150">
 
