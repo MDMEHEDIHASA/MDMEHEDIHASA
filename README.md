@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm MD Mehedi Hasan</h1>
 <p align="center">
-  <strong>A passionate Software Engineer and Ex-Machine Learning Engineer</strong>
+  <strong>A passionate Software Engineer and Machine Learning Engineer</strong>
 </p>
 
 ---
